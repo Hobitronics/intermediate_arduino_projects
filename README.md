@@ -5,11 +5,12 @@ Welcome to **Hobitronics' Intermediate Arduino Project Series** – a hands-on j
 ## 🚀 Projects Included
 
 | No. | Project Title | Description |
-| 1.  |16x2 LCD Display Interfacing |   Display messages using a standard 16x2 LCD. |
-| 2.  |Temperature & Humidity Live Display|    Monitor environment using a DHT22 sensor. |
-| 3.  |Soil Moisture Sensor with Water Pump|    Smart irrigation using analog soil moisture data. |
-| 4.  |Gas Sensor with LCD Display|    Detect and display CO/CH₄ gas levels in real time. |
-| 5.  |RFID Delivery Tracking System|    Track parcels and simulate real-world logistics. |
+|-----|----------------|-------------|
+| 1.  | [16x2 LCD Display Interfacing](#1-16x2-lcd-display-interfacing) | Display messages using a standard 16x2 LCD. |
+| 2.  | [Temperature & Humidity Live Display](#2-temperature--humidity-live-display) | Monitor environment using a DHT22 sensor. |
+| 3.  | [Soil Moisture Sensor with Water Pump](#3-soil-moisture-sensor--automated-irrigation) | Smart irrigation using analog soil moisture data. |
+| 4.  | [Gas Sensor with LCD Display](#4-gas-concentration-monitoring) | Detect and display CO/CH₄ gas levels in real time. |
+| 5.  | [RFID Delivery Tracking System](#5-rfid-delivery-tracking-system) | Track parcels and simulate real-world logistics. |
 
 ---
 
